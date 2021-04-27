@@ -1,0 +1,16 @@
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\Lists3.exe
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\Lists3.deps.json
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\Lists3.runtimeconfig.json
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\Lists3.runtimeconfig.dev.json
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\Lists3.dll
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\ref\Lists3.dll
+C:\workspaces-cs\Arrays_Lists\Lists3\bin\Debug\net5.0\Lists3.pdb
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.csprojAssemblyReference.cache
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.AssemblyInfoInputs.cache
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.AssemblyInfo.cs
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.dll
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\ref\Lists3.dll
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.pdb
+C:\workspaces-cs\Arrays_Lists\Lists3\obj\Debug\net5.0\Lists3.genruntimeconfig.cache

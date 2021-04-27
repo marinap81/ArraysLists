@@ -1,0 +1,16 @@
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.csprojAssemblyReference.cache
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.AssemblyInfoInputs.cache
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.AssemblyInfo.cs
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\Arrays1.1.exe
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\Arrays1.1.deps.json
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\Arrays1.1.runtimeconfig.json
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\Arrays1.1.runtimeconfig.dev.json
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\Arrays1.1.dll
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\ref\Arrays1.1.dll
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\bin\Debug\net5.0\Arrays1.1.pdb
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.dll
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\ref\Arrays1.1.dll
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.pdb
+C:\workspaces-cs\Arrays_Lists\Arrays1.1\obj\Debug\net5.0\Arrays1.1.genruntimeconfig.cache

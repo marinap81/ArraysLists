@@ -1,0 +1,16 @@
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\Lists1.exe
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\Lists1.deps.json
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\Lists1.runtimeconfig.json
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\Lists1.runtimeconfig.dev.json
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\Lists1.dll
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\ref\Lists1.dll
+C:\workspaces-cs\Arrays_Lists\Lists1\bin\Debug\net5.0\Lists1.pdb
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.csprojAssemblyReference.cache
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.AssemblyInfoInputs.cache
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.AssemblyInfo.cs
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.dll
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\ref\Lists1.dll
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.pdb
+C:\workspaces-cs\Arrays_Lists\Lists1\obj\Debug\net5.0\Lists1.genruntimeconfig.cache

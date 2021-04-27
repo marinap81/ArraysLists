@@ -1,0 +1,16 @@
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.csprojAssemblyReference.cache
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.AssemblyInfoInputs.cache
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.AssemblyInfo.cs
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\Arrays1.2.exe
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\Arrays1.2.deps.json
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\Arrays1.2.runtimeconfig.json
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\Arrays1.2.runtimeconfig.dev.json
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\Arrays1.2.dll
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\ref\Arrays1.2.dll
+C:\workspaces-cs\Arrays_Lists\arrays1.2\bin\Debug\net5.0\Arrays1.2.pdb
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.dll
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\ref\Arrays1.2.dll
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.pdb
+C:\workspaces-cs\Arrays_Lists\arrays1.2\obj\Debug\net5.0\Arrays1.2.genruntimeconfig.cache
